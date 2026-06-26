@@ -1,4 +1,4 @@
-# 👋 Salam, I'm Abdullah Sajid! 🚀
+# 👋 Hi, I'm Abdullah Sajid! 🚀
 
 ### 👨‍💻 Aspiring Cloud DevOps & Linux Systems Engineer
 Driven by a passion for building robust infrastructure, optimizing server architectures, and engineering high-availability systems. I focus on creating clean, organized, and production-ready solutions, moving step-by-step toward mastering global remote tech operations.

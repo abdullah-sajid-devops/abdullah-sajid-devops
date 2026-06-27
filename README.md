@@ -29,7 +29,7 @@ Driven by a passion for building robust infrastructure, optimizing server archit
 ## 🤝 Let's Connect!
 I am actively building connections with tech executives, HR professionals, and engineering leaders worldwide. Let's talk system architectures, cloud infrastructure, or remote engineering opportunities.
 
-*   💼 **LinkedIn:** www.linkedin.com/in/abdullah-sajid-devops
+*   💼 **LinkedIn:** www.linkedin.com/in/abdullah-sajid-azure
 
 
 *   📧 **Email:** abdullahsajidpmas@gmail.com
